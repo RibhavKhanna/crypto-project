@@ -8,7 +8,7 @@ function Blog() {
             <div className="title">
 
                 <h2>Blog and News</h2>
-                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quis, consequatur.</p>
+                <p>Latest News, Articles and new developments in the field of Crypto Currencies.</p>
             </div>
             <div className="cards">
                 <div className="card">
