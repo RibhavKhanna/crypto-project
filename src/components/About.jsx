@@ -9,7 +9,7 @@ function About() {
       <div class="container py-5">
         <div class="row h-100 align-items-center py-5">
           <div class="col-lg-6">
-            <h1 class="display-4">Our Aim</h1>
+            <h1 class="display-4 text-primary">Our Aim</h1>
             <p class="lead text-muted mb-0">
                We are committed to earning and maintaining your trust.
                We believe that in order to do so, we must invest in our four pillars for the long-term,
@@ -33,7 +33,7 @@ function About() {
       <div class="container py-5">
         <div class="row align-items-center mb-5">
           <div class="col-lg-6 order-2 order-lg-1"><i class="fa fa-bar-chart fa-2x mb-3 text-primary"></i>
-            <h2 class="font-weight-light">Crypto</h2>
+            <h2 class="font-weight-light  text-primary">Crypto</h2>
             <p class="font-italic text-muted mb-4">Crypto has the capacity to force a redesign of the Internet, our financial system, and money in a way that fosters and protects the rights and dignity of the individual. If we are successful, we could make as great of a contribution to personal freedom as the invention of the printing press, the personal computer, and the early, open Internet.
     
     Crypto is not just a technology, it's a movement. But it won't happen unless we build simple, elegant, and secure ways for individuals and institutions around the world to discover and interact with this new frontier.</p><a href="#" class="btn btn-light px-5 rounded-pill shadow-sm">Learn More</a>

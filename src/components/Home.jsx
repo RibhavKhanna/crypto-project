@@ -1,6 +1,6 @@
 import React from "react";
 import "./home.css";
-import millify from 'millify';
+import millify from 'millify';//Converts long numbers into pretty, human-readable strings. eg 2000 =>	'2K'
 import { Typography, Row, Col, Statistic } from 'antd';
 
 
